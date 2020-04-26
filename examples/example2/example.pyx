@@ -1,4 +1,3 @@
-
 def fib(int n):
     cdef int i, a, b
     a, b = 1, 1

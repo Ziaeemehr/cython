@@ -6,5 +6,8 @@
 python3 setup.py build_ext --inplace
 ```
 
-
+-  to make html file
+```sh
+cython -a example.pyx
+```
 
