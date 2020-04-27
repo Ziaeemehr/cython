@@ -5,5 +5,4 @@
 ```sh
 cython -a example.pyx
 ```
--  or
-    -  pass the `annotate=True` parameter to `cythonize()`. It produces a HTML file.
+-  passing the `annotate=True` parameter to `cythonize()` did not work here, for making html file.
